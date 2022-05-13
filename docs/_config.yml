@@ -26,9 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://engineering.tote.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: UKToteGroup
 github_username:  TheTote
-
+google_analytics: asd
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
