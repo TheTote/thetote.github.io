@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 Hello. You've found the voice of the Software Engineers working within the UK Tote Group Engineering department.
 
 In this blog, members of our Engineering department discuss some of the technical challenges they've encountered in their work, share useful techniques from across our Engineering Guilds, or give insights and opinions on the world of Software development, testing, automation and DevOps.
