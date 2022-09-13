@@ -12,7 +12,8 @@ The automated testing suites for the new technologies are written in the BDD Spe
 For our services, we have introduced the BDD framework to test end to end processes, such as checking responses from third parties process results in the correct manner. These tests utilise Mockoon’s mock REST API servers, configured to mimic the third-party supplier’s responses. We create common methods for the then statements to setup data for the API calls, a when statement to actual perform the call itself and then a then statement to verify that the response and resulting processes produce the correct outcome. See below for an example feature file for a service which runs tests for a pubsub:
 
 
-``` @Integration
+``` 
+@Integration
     Feature: Publishing to and reading messages from PubSub Emulator.
 
     @PubSub1
